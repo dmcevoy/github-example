@@ -1,0 +1,6 @@
+# WebStorm
+.idea
+
+# ignore
+*.o
+*.out
